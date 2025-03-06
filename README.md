@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## My works
+**Journal**
+1. *T. Kaewrakmuk and J. Srinonchat, "Multisensor Data Fusion and Time Series to Image Encoding for Hardness Recognition," in IEEE Sensors Journal, vol. 24, no. 16, pp. 26463-26471, 15 Aug.15, 2024, doi: 10.1109/JSEN.2024.3426045.*
+
+**Conference**
+1. *T. Kaewrakmuk and J. Srinonchat, "Object Recognition Using Multi-Input Sensor with Convolutional Neural Network," 2022 19th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), Prachuap Khiri Khan, Thailand, 2022, pp. 1-4, doi: 10.1109/ECTI-CON54298.2022.9795617.*
